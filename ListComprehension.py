@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 """
-Oodziel liczby parzyste od nieparzystych 
-* z apomocą pętli
-** za pomoca list comprehension
-*** Stwórz funkcję 
+Separate even numbers from odd numbers
+* with the help of a loop
+** using list comprehension
+*** Create a function
 
 
 """
